@@ -5,8 +5,7 @@
 
 - 🗺️  Sou de Curitiba-PR, Brasil
 - 🖤 Apaixonado por Design e Tecnologia
-- 📚 Estudante de Análise e Desenvolvimento de Sistemas
-- 🏦 Atualmente trabalhando com Desenvolvimento Web, estudando JavaScript e cursando Análise e Desenvolvimento de Sistemas na PUCPR.
+- 🏦 Atualmente trabalhando com Desenvolvimento Web e estudando JavaScript.
 
 A seguir, você encontrará detalhes sobre as tecnologias e ferramentas com as quais trabalho, juntamente com informações sobre minha experiência profissional e acadêmica.
 
