@@ -7,7 +7,7 @@
 - 🖤 Apaixonado por Design e Tecnologia
 - 🏦 Atualmente trabalhando com Desenvolvimento Web e estudando JavaScript.
 
-A seguir, você encontrará detalhes sobre as tecnologias e ferramentas com as quais trabalho, juntamente com informações sobre minha experiência profissional e acadêmica.
+A seguir, você encontrará detalhes sobre as tecnologias e ferramentas com as quais trabalho.
 
 ##
 
