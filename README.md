@@ -12,15 +12,14 @@ A seguir, você encontrará detalhes sobre as tecnologias e ferramentas com as q
 ##
 
 #### Front-End and Back-End :
-[<img height="48px" width="48px" alt="Icone Html" src="https://skillicons.dev/icons?i=vercel"/>](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
-[<img height="48px" width="48px" alt="Icone Html" src="https://skillicons.dev/icons?i=nodejs"/>](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
-[<img height="48px" width="48px" alt="Icone Html" src="https://skillicons.dev/icons?i=nextjs"/>](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
-[<img height="48px" width="48px" alt="Icone Html" src="https://skillicons.dev/icons?i=react"/>](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
-[<img height="48px" width="48px" alt="Icone Html" src="https://skillicons.dev/icons?i=react"/>](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 [<img height="48px" width="48px" alt="Icone Html" src="https://skillicons.dev/icons?i=html"/>](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 [<img height="48px" width="48px" alt="Icone CSS" src="https://skillicons.dev/icons?i=css"/>](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 [<img height="48px" width="48px" alt="Icone Java Script" src="https://skillicons.dev/icons?i=js"/>](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 [<img height="48px" width="48px" alt="Icone Java Script" src="https://skillicons.dev/icons?i=wordpress"/>](https://wordpress.com/pt-br/)
+[<img height="48px" width="48px" alt="Icone Html" src="https://skillicons.dev/icons?i=vercel"/>](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+[<img height="48px" width="48px" alt="Icone Html" src="https://skillicons.dev/icons?i=nodejs"/>](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+[<img height="48px" width="48px" alt="Icone Html" src="https://skillicons.dev/icons?i=nextjs"/>](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+[<img height="48px" width="48px" alt="Icone Html" src="https://skillicons.dev/icons?i=react"/>](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 
 
 ##
