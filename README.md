@@ -1,7 +1,7 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
 ## Olá <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-### O meu nome é Bruno, Seja bem-vindo ao meu perfil GitHub. <img src="[https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png](https://br30.hostgator.com.br:2083/cpsess5052273448/frontend/jupiter/filemanager/showfile.html?file=vista-do-menino-3d-usando-laptop.png&fileop=&dir=%2Fhome2%2Fcarb8671%2Fpublic_html&dirop=&charset=&file_charset=&baseurl=&basedir=)" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="right">
+### O meu nome é Bruno, Seja bem-vindo ao meu perfil GitHub. <img src="https://br30.hostgator.com.br:2083/cpsess5052273448/viewer/home2%2fcarb8671%2fpublic_html/vista-do-menino-3d-usando-laptop.png" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="right">
 
 - 🗺️  Sou de Curitiba-PR, Brasil
 - 🖤 Apaixonado por Design e Tecnologia
