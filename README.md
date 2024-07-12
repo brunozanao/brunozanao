@@ -5,7 +5,7 @@
 
 - 🗺️  Sou de Curitiba-PR, Brasil
 - 🖤 Apaixonado por Design e Tecnologia
-- 🏦 Atualmente trabalhando com Desenvolvimento Web e estudando novas tecnologias.
+- 🏦 Atualmente trabalhando com Desenvolvimento Web e estudando novas tecnologias
 
 A seguir, você encontrará detalhes sobre as tecnologias e ferramentas com as quais trabalho.
 
