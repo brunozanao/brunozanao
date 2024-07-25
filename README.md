@@ -3,9 +3,9 @@
 ## Olá <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 ### O meu nome é Bruno, Seja bem-vindo ao meu perfil GitHub. <img src="https://watersmemorial.stockcapital.com.br/wp-content/uploads/2024/07/vista-do-menino-3d-usando-laptop.png" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="right">
 
-- 🗺️  Sou de Curitiba-PR, Brasil
-- 🖤 Design e Tecnologia
-- 🏦 Atualmente trabalhando com Desenvolvimento Web e estudando novas tecnologias
+- 🗺️  Sou de Curitiba-PR, Brasil.
+- 🖤 Design e Tecnologia.
+- 🏦 Atualmente trabalhando com Desenvolvimento Web e estudando novas tecnologias.
 
 A seguir, você encontrará detalhes sobre as tecnologias e ferramentas com as quais trabalho.
 
