@@ -20,6 +20,7 @@ A seguir, você encontrará detalhes sobre as tecnologias e ferramentas com as q
 ##
 
 #### Atualmente estou estudando e aplicando em projetos reais:
+[<img height="48px" width="48px" alt="Icone Html" src="https://skillicons.dev/icons?i=vercel"/>](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 [<img height="48px" width="48px" alt="Icone Html" src="https://skillicons.dev/icons?i=nodejs"/>](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 [<img height="48px" width="48px" alt="Icone Html" src="https://skillicons.dev/icons?i=nextjs"/>](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 [<img height="48px" width="48px" alt="Icone Html" src="https://skillicons.dev/icons?i=react"/>](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
@@ -27,7 +28,6 @@ A seguir, você encontrará detalhes sobre as tecnologias e ferramentas com as q
 ##
 
 #### Ferramentas:
-[<img height="48px" width="48px" alt="Icone Html" src="https://skillicons.dev/icons?i=vercel"/>](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=vscode"/>](https://code.visualstudio.com)
 [<img height="48px" width="48px" alt="Icone GitHub" src="https://skillicons.dev/icons?i=github"/>](https://github.com/)
 [<img height="48px" width="48px" alt="Icone Git" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg"/>](https://git-scm.com)
