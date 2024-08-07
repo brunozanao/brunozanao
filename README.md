@@ -1,7 +1,6 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
 ## Olá <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-### O meu nome é Bruno, Seja bem-vindo ao meu perfil GitHub.
 
 - 🗺️  Sou de Curitiba-PR, Brasil.
 - 🖤 Design e Tecnologia.
