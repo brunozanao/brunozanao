@@ -4,6 +4,7 @@
 
 - 🗺️  Sou de Curitiba-PR, Brasil.
 - 🖤 Design e Tecnologia.
+- 📚 Análise e Desenvolvimento de Sistemas
 - 🏦 Atualmente trabalhando com Desenvolvimento Web e estudando novas tecnologias.
 
 A seguir, você encontrará detalhes sobre as tecnologias e ferramentas com as quais trabalho.
