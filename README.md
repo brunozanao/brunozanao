@@ -3,7 +3,6 @@
 ## Olá <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 - 🗺️ Sou de Curitiba-PR, Brasil.
-- 🖤 Design e Tecnologia.
 - 📚 Análise e Desenvolvimento de Sistemas.
 - 🏦 Atualmente trabalhando com Desenvolvimento Web e estudando novas tecnologias.
 
